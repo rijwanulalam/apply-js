@@ -18,4 +18,4 @@ function factorial(number){
     return result;
 }
 
-console.log(factorial(3));
+console.log(factorial(4));
